@@ -16,6 +16,6 @@ def write_todos(todos_arg,filepath=FILEPATH):
 # variable = help(get_todos)
 
 #will not be executed by main
-
+# print(__name__)
 if __name__ == "__main__":
     print("Hello")
