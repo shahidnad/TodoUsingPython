@@ -1,9 +1,7 @@
 fix
-hello
-hello new
-maybe
-newtodo
-make soup
+clean
+edit
 show
-Hello 
-master python
+mynewtodo
+mynewtodo1
+new hi
