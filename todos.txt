@@ -1,7 +1,6 @@
-fix
-clean
 edit
 show
 mynewtodo
-mynewtodo1
-new hi
+mynewtodo
+new
+heelo lelo
